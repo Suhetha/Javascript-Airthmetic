@@ -1,0 +1,10 @@
+<html>
+<body>
+<p id="demo"></p>
+<script>
+let x = 5;
+let y = (200 + 100 + 100) * x;
+document.getElementById("demo").innerHTML = y;
+</script>
+</body>
+</html>
